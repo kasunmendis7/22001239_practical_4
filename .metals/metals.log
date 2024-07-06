@@ -1093,3 +1093,7 @@ WARNING: Unmatched cancel notification for request id 9434
 2024.07.06 20:19:03 INFO  time: compiled Question1_f4dd477a3a in 0.44s[0m
 2024.07.06 20:19:04 INFO  compiling question1_f4dd477a3a (1 scala source)[0m
 2024.07.06 20:19:04 INFO  time: compiled Question1_f4dd477a3a in 0.43s[0m
+2024.07.06 20:29:03 INFO  Shutting down server[0m
+2024.07.06 20:29:03 INFO  shutting down Metals[0m
+2024.07.06 20:29:03 INFO  Shut down connection with build server.[0m
+2024.07.06 20:29:03 INFO  Exiting server[0m
